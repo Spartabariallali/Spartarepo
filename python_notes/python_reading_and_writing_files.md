@@ -39,5 +39,8 @@ if __name__ == '__main__':
 - Outside of the bash script we need to remember to assign the file the appropriate mode
 ```bash
 chmod +x shellscript_python.py
-./shellscript_python
+```
+- To run the file we simply execute the following command:
+```bash
+./shellscript_python 
 ```
