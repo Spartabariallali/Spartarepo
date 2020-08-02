@@ -22,6 +22,16 @@ ___
 2. **Flask Project** [HERE](https://github.com/Spartabariallali/flaskMVP)
 3. **TDD in Python** [HERE](https://github.com/Spartabariallali/TDD_pytest)
 
+---
+
+### DevOps Tools
+#### Vagrant
+- General overview of Vagrant [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/DEVOPS.md)
+- Creating a `vagrantfile` [HERE]()
+- Syntax 
+
+
+
 ___
 
 ## Weekly Breakdown of DevOps course
