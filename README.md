@@ -1,3 +1,5 @@
+[![Bari Allali github stats](https://github-readme-stats.vercel.app/api?username=spartabariallali)](https://github.com/spartabariallali/github-readme-stats)
+
 # Sparta Global Training
 ##### `Name:` Bari Allali :ok_man:
 ##### `Position:` Junior DevOp Engineer :computer: 
