@@ -28,7 +28,8 @@ ___
 #### Vagrant
 - General overview of Vagrant [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/DEVOPS.md)
 - Creating a `vagrantfile` [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_syntax.md)
-- `vagrantfile` Syntax [HERE]()
+- `vagrantfile` Syntax [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_syntax.md)
+
 
 
 
