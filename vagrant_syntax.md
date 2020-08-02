@@ -1,22 +1,8 @@
-### Creating a vagrantfile 
-
- ```bash 
-mkdir vagrantfiletest
- 
-cd vagrantfiletest
-
-vagrant init
-```
-
-### Creating a basic vagrantfile structure 
+### Vagrant Syntax
+- A `vagrantfile` uses `Ruby` language syntax 
+- In order to begin creating the virtual machine you need to configure it
+- A vagrantfile configuration is contained within the `configure`  block.
+- The following code assigns a value to the variable:
 ```bash
-vagrant init --minimal
-or 
-vagrant init -m
-```
-### This will give the following basic structure:
-```bash
-Vagrant.configure("2") do |config| 
-config.vm.box = "base"
-end
+config.vm.box = "ubuntu/trusty64"
 ```
