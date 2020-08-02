@@ -30,7 +30,7 @@ ___
 - Creating a `vagrantfile` [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_notes/vagrantfile_basic_strcuture.md)
 - `vagrantfile` Syntax [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_notes/vagrant_syntax.md)
 #### Python and DevOps automation 
-- Reading and writing files with Python [HERE]()
+- Reading and writing files with Python [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/python_notes/python_reading_and_writing_files.md)
 
 
 ___
