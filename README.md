@@ -26,11 +26,9 @@ ___
 
 ### DevOps Tools
 #### Vagrant
-- General overview of Vagrant [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/DEVOPS.md)
-- Creating a `vagrantfile` [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_syntax.md)
-- `vagrantfile` Syntax [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_syntax.md)
-
-
+- General overview of Vagrant [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_notes/vagrant_notes.md)
+- Creating a `vagrantfile` [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_notes/vagrantfile_basic_strcuture.md)
+- `vagrantfile` Syntax [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_notes/vagrant_syntax.md)
 
 
 ___
