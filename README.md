@@ -29,6 +29,8 @@ ___
 - General overview of Vagrant [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_notes/vagrant_notes.md)
 - Creating a `vagrantfile` [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_notes/vagrantfile_basic_strcuture.md)
 - `vagrantfile` Syntax [HERE](https://github.com/Spartabariallali/Spartarepo/blob/master/vagrant_notes/vagrant_syntax.md)
+#### Python and DevOps automation 
+- Reading and writing files with Python [HERE]()
 
 
 ___
