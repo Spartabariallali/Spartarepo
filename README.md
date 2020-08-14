@@ -46,4 +46,4 @@ and JSON [HERE](https://github.com/Spartabariallali/API_json): a combination of 
 - [x] **Week Six** - Quality Gate
 - [x] **Week Seven** - Linux commands [HERE](https://github.com/Spartabariallali/vm_provisioning) and Virtualisation [HERE](https://github.com/Spartabariallali/Nginx_reverse_proxy)
 - [x] **Week Eight** - Jenkins and Automating the CI/CD pipeline [HERE]()
-- [X] **Week Nine** - AWS - creating instances 
+- [X] **Week Nine** - AWS - creating instances in the cloud[HERE]()/ Networking[HERE]() / VPCs[HERE]()
