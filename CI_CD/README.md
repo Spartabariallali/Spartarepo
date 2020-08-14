@@ -5,5 +5,6 @@
 - To implement CI, it is necessary to have a Source Code Manager(SCM) 
 ![title](imagesmd/Screenshot 2020-08-03 at 10.25.45.png)
 
-- The diagram shows the cyclical steps of continous integration that include the code being pushed to the SCM by the team members and the execution of the build and test by the CI server.
+
+- The diagram shows the cyclical steps of continuous integration that include the code being pushed to the SCM by the team members and the execution of the build and test by the CI server.
 
