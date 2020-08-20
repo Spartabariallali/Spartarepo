@@ -47,3 +47,4 @@ and JSON [HERE](https://github.com/Spartabariallali/API_json): a combination of 
 - [x] **Week Seven** - Linux commands [HERE](https://github.com/Spartabariallali/vm_provisioning) and Virtualisation [HERE](https://github.com/Spartabariallali/Nginx_reverse_proxy)
 - [x] **Week Eight** - Jenkins and Automating the CI/CD pipeline [HERE](https://github.com/Spartabariallali/eng67-webapp-ci)
 - [X] **Week Nine** - AWS - creating instances in the cloud [HERE](https://github.com/Spartabariallali/Nodejs_Webapp_App/blob/master/2vm_readme.md)/ Networking [HERE](https://github.com/Spartabariallali/networkingtest) / VPCs [HERE](https://github.com/Spartabariallali/networkingtest/blob/master/VPC_notes.md)
+- [x] **Week 10** - Infrastructure as Code via Ansible [HERE](https://github.com/Spartabariallali/ansible_basics-/blob/master/readme.md) and Terraform [HERE](https://github.com/Spartabariallali/eng67_terraform/blob/master/readme.md)
